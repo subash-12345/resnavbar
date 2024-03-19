@@ -1,0 +1,27 @@
+.serv3box1{
+      display: flex;
+      width: 100%;
+      margin-top:200px;
+      margin-left: 10px;
+      justify-content: space-around;
+}
+
+.serv3box2{
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    margin-left: 10px;
+    justify-content: space-around;
+}
+
+.serv3img{
+     width:70px;
+     height:40px;
+}
+
+  
+@media screen and (max-width: 600px){
+    
+    .serv3box1{margin-left: 5px;margin-top:90px;}
+    .serv3box2{margin-left: 5px;}
+}

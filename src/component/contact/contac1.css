@@ -1,0 +1,71 @@
+
+.country{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.company{
+     margin-top: 20px;
+     font-size: 26px;
+     font-weight: lighter;
+     color: blue;
+}
+
+.address{
+    margin-top: 18px;
+    text-align: left;
+    margin-left: 720px;
+}
+
+.state{
+    margin-top:5px;
+    text-align: left;
+    margin-left: 720px;
+}
+
+.pin{
+    margin-top:5px;
+    text-align: left;
+    margin-left: 720px;
+}
+
+.phone{
+    margin-top:5px;
+    text-align: left;
+    margin-left: 720px;
+}
+
+.fax{
+    margin-top:5px;
+    margin-left: 720px;
+    text-align: left;
+}
+
+
+@media screen and (max-width:600px) {
+    .address{
+        
+        margin-left: 5px;
+    }
+    
+    .state{
+        
+        margin-left: 5px;
+    }
+    
+    .pin{
+
+        margin-left: 5px;
+    }
+    
+    .phone{
+            margin-left: 5px;
+    }
+    
+    .fax{
+        
+        margin-left: 5px;
+    }
+}

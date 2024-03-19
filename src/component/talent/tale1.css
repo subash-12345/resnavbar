@@ -1,0 +1,144 @@
+
+.tale21{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    margin-left: 90px;
+}
+
+.tale22{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    margin-left: 90px;
+}
+
+.cloud{
+    width: 700px;
+    height:250px
+}
+
+.tale4head{
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+    
+}
+
+
+
+.tale4contend{
+    width: 700px;
+    text-align: left;
+    font-size: 23px;
+    margin-top: 30px;
+}
+
+
+.tale2box2{
+    margin-left: 50px;
+}
+
+.cloud2{
+    width: 700px;
+    height:250px
+}
+
+.tale42head{
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+    
+}
+
+.tale42contend{
+    width: 700px;
+    text-align: left;
+    font-size: 23px;
+    margin-top: 30px;
+}
+
+
+
+@media screen and (max-width: 1100px){
+    .tale21{
+        display: block;
+    }
+    
+    .tale22{       
+        display: block;
+    }
+    .tale2box2{
+        margin-top: 70px;
+        margin-left: 5px;
+        
+    }
+}
+
+  
+@media screen and (max-width: 600px){
+    .tale21{
+    
+        margin-top: 100px;
+        display: block;
+        margin-left:13px;
+        margin-top: 250px;
+    }
+    
+    .tale22{
+    
+        margin-top: 70px;
+        display: block;
+        margin-left:13px;
+    }
+    .cloud{
+        width: 300px;
+        height:250px;
+      
+    }
+    
+    .cloud2{
+        width: 300px;
+        height:250px
+    }
+  
+ .tale42contend{
+    width:300px;
+    text-align: left;
+    font-size: 17px;
+    margin-top: 30px;
+}
+    
+.tale4contend{
+    width: 300px;
+    text-align: left;
+    font-size: 17px;
+    margin-top: 30px;
+}
+.tale2box2{
+    margin-top: 70px;
+    margin-left: 5px;
+    
+}
+.tale4head{
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+    width: 300px;
+    
+}
+
+.tale42head{
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+    width: 300px;
+    
+}
+
+
+}
